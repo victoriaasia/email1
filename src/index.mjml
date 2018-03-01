@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="sans-serif" padding="0 20px" />
+      <mj-class name="cta" color="#FFFFFF" font-size="13px" border-radius="3px" href="https://mjml.io" font-family="sans-serif" padding="20px 25px" />
+      <mj-class name="footer-text" align="center" color="#ffffff" font-family="sans-serif" font-size="15px" padding="0 25px" />
+      <mj-link padding="0 35px" font-size="12px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a { text-decoration: none; color: inherit; font-family: Didact Gothic, serif;}
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#f2f2f2">
+      <mj-section padding-top="20">
+        <mj-column>
+          <mj-image src="http://ipic.su/img/img7/fs/1.1512137038.png" width="600px" href="https://www.gold585.ru/"></mj-image>
+          <mj-image src="http://ipic.su/img/img7/fs/58511.1512376202.jpg" width="600px" href="https://www.gold585.ru/"></mj-image>
+          <mj-image src="http://ipic.su/img/img7/fs/banner1.1512370650.jpg" width="600px" href="https://www.gold585.ru/"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column>
+          <mj-image src="http://ipic.su/img/img7/fs/HER.1512650171.jpg" alt="" width="295" href="https://www.gold585.ru/catalog/gifts/gifts-for-her/"></mj-image>
+        </mj-column>
+
+        <mj-column>
+          <mj-image src="http://ipic.su/img/img7/fs/HIS.1512650273.jpg" alt="" width="295" href="https://www.gold585.ru/catalog/gifts/gifts-for-him/"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column>
+          <mj-image src="http://ipic.su/img/img7/fs/MOM.1512650336.jpg" alt="" width="295" href="https://www.gold585.ru/catalog/gifts/gifts-for-mom/"></mj-image>
+        </mj-column>
+
+        <mj-column>
+          <mj-image src="http://ipic.su/img/img7/fs/DAD.1512650373.jpg" alt="" width="295" href="https://www.gold585.ru/catalog/gifts/gifts-for-dad/"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column>
+          <mj-image src="http://ipic.su/img/img7/fs/CHILD.1512650432.jpg" alt="" width="295" href="https://www.gold585.ru/catalog/gifts/gifts-for-kids/"></mj-image>
+        </mj-column>
+
+        <mj-column>
+          <mj-image src="http://ipic.su/img/img7/fs/CERT.1512650450.jpg" alt="" width="295" href="https://www.gold585.ru/customers/gift/"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-navbar background-color="#ffffff" padding="10px 0 0">
+        <mj-column>
+          <mj-divider border-color="#ff0000" border-width="2px"></mj-divider>
+          <mj-inline-links base-url="https://www.gold585.ru" padding-top="15px" padding-bottom="15px">
+
+                <mj-link href="/catalog/rings/" font-family="sans-serif" font-size="16px" line-height="16px" padding="0px" color="#ff0000">кольца&nbsp;&nbsp;&#9679;&nbsp;&nbsp;</mj-link>
+                <mj-link href="/catalog/earrings/" font-family="sans-serif" font-size="16px" line-height="16px" padding="0px" color="#ff0000">серьги&nbsp;&nbsp;&#9679;&nbsp;&nbsp;</mj-link>
+                <mj-link href="/catalog/chains-and-bracelets/" font-family="sans-serif" font-size="16px" line-height="16px" padding="0px" color="#ff0000">цепочки&nbsp;&nbsp;&#9679;&nbsp;&nbsp;</mj-link>
+                <mj-link href="/customers/offers/" font-family="sans-serif" font-size="16px" line-height="16px" padding="0px" color="#ff0000">акции</mj-link>
+
+          </mj-inline-links>
+          <mj-divider border-color="#ff0000" border-width="2px"></mj-divider>
+        </mj-column>
+      </mj-navbar>
+      <mj-section padding="20px 0">
+        <mj-column>
+          <mj-text align="center" font-size="22px" font-weight="bold">
+            <p style="color:#403e3f; font-family:Didact Gothic, sans-serif;">Нужна помощь?</p>
+            <a href="tel:88005555585" style="color:#000000 !important; text-decoration:none; font-family:Didact Gothic, sans-serif;">8 800 555 55 85</a>
+            <p style="color:#403e3f; margin-top:30px; font-family:Didact Gothic, sans-serif;">Присоединяйтесь к нам</p>
+          </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="60px" border-bottom="1px solid #dddddd">
+          <mj-column>&nbsp;</mj-column>
+          <mj-column><mj-image width="45px" padding="10px 25px" href="https://www.facebook.com/gold585club/" src="http://ipic.su/img/img7/fs/fb.1512371681.png"></mj-image></mj-column>
+          <mj-column><mj-image width="45px" padding="10px 25px" href="https://ok.ru/gold585club" src="http://ipic.su/img/img7/fs/ok.1512371743.png"></mj-image></mj-column>
+          <mj-column><mj-image width="45px" padding="10px 25px" href="https://twitter.com/gold585club" src="http://ipic.su/img/img7/fs/tw.1512371758.png"></mj-image></mj-column>
+          <mj-column><mj-image width="45px" padding="10px 25px" href="https://vk.com/gold585club" src="http://ipic.su/img/img7/fs/vk.1512371868.png"></mj-image></mj-column>
+          <mj-column>&nbsp;</mj-column>
+        </mj-section>
+
+      <mj-section padding-top="60px" padding-bottom="20px">
+        <mj-column>
+          <mj-inline-links base-url="https://www.gold585.ru">
+              <mj-link href="#" font-family="sans-serif" font-size="14px" line-height="14px" color="#7396e2" text-transform="none" text-decoration="underline">Отказаться от подписки</mj-link>
+            </mj-inline-links>
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
